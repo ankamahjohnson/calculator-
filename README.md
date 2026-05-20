@@ -7,13 +7,14 @@ View Live 🌐
 
 
 ## Features
-- Real-time analog clock with smooth hand animations
-- Levitates up and down giving it a modern and premium feel
-- Dynamic drop shadow beneath the clock that responds to the float effect
-- Warm pink to orange radial gradient clock face
-- Fully responsive and centered layout
-- Built with pure HTML, CSS & JavaScript
-
+- Full arithmetic operations — addition, subtraction, multiplication, division, percentage calculator function
+- Clear button to reset calculations
+- Real-time display screen for input and results
+- Neumorphic soft raised button design
+- Bold green accent color on operators and equals button
+- Green underline accent on calculator title
+- Soft light grey background with inset display screen
+- Fully responsive layout
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
